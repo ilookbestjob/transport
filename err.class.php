@@ -1,0 +1,5 @@
+<?
+class ErrObj 
+{
+    public $error;
+}
